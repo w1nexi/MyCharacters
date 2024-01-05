@@ -1,0 +1,13 @@
+type hero with name babah:
+ babah.iq = 52
+ babah.legs = 2
+ babah.arms = 2
+
+ babah can:
+  move
+  say
+  flipback
+  hook
+подрывник"
+
+  lore = "подрывник"ыы
